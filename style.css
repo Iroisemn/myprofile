@@ -1,0 +1,62 @@
+/* Colors and fonts */
+body{
+	background-color: #EEE5E9;
+	font font-family: cursive;
+}
+h1{color: black;}
+p {color: dark;
+font font-family: revert;
+}
+
+div {
+	background : #7BAE7F;
+	Border : 25px solid grey;
+	Margin : 39px;
+}
+
+.img-circle {
+	border-radius : 50%
+}
+#leader {
+	border-radius: 15px blanchedalmond;
+}
+
+div {
+	border-top: 15px yellow;
+	border-right: 15px white;
+	border-bottom: 15px yellow;
+	border-left: 15px white;
+	border-radius: 15px;
+	border box-shadow: 3 14px 14px 14px rgba(50, 50, 93, .1) /*indianred*/
+}
+.card-white {
+	background-color: #7BAE7F;
+	border-top: 15px yellow;
+	border-right: 15px white;
+	border-bottom: 15px yellow;
+	border-left: 15px white;
+	border-radius: 5px;
+	text-align: center;
+	border box-shadow: 3 14px 14px 14px rgba(50, 50, 93, .1) /*indianred*/
+}
+
+
+
+.list-horizontal {
+	list-style:none;
+	padding-left:0px;
+}
+
+.list-horizontal li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-horizontal i {
+	font-size: 50px;
+	color: rgb(230, 230, 230);
+}
+
+.list-horizontal i: hover {
+	color: pink;
+}
